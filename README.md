@@ -9,6 +9,8 @@ For responsible release considerations, as discussed in the paper's **Ethical Co
 
 ## 📖 Introduction
 
+![Overview](./method.png)
+
 Black-box DNN watermarking protects intellectual property by embedding trigger sets. However, existing methods often suffer from **low specificity**—meaning the watermark is activated not just by the exact key, but by many "approximate keys" (noisy versions). This vulnerability allows attackers to reverse-engineer the key and remove the watermark.
 
 **SEW (Specificity-Enhanced Watermarking)** introduces a novel training paradigm that:
