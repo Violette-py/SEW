@@ -100,10 +100,11 @@ High specificity translates to strong defense, making the watermark much harder 
 If you find this code or paper useful for your research, please cite our work.
 
 ```bash
-@article{qiu2026sew,
+@inproceedings{qiu2026sew,
   title={SEW: Strengthening Robustness of Black-box DNN Watermarking via Specificity Enhancement},
   author={Qiu, Huming and Zhang, Mi and Sun, Junjie and Chen, Peiyi and Zhang, Xiaohan and Yang, Min},
-  journal={arXiv preprint arXiv:2602.03377},
+  booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1},
+  pages={1204--1215},
   year={2026}
 }
 ```
